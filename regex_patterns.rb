@@ -33,7 +33,7 @@ regex = /\s/ # matches all the whitespace, new line, tab
 
 regex = /^abc/ # matches a line that starts with abc
 regex = /abc$/ # matches a line that ends with abc
-regex = /^abc$/ # matches a line that in exactly abc
+regex = /^abc$/ # matches a line that is exactly abc
 regex = /\b/ # word boundary (start or end of a word)
 
 
